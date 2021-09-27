@@ -11,7 +11,10 @@ But please be aware that this can lead to permanent and immeadiate bans on your 
 # Commands
 There are some commands you can use to prank people or use in a private match. Most commands will be listed below to use.<br><br>
 
-Trigger Event: `Workspace.LiveEvents.<eventcodename>.Disabled = false` (you can find codenames [here](https://github.com/FortBloxLeaker/Event-Codenames/blob/main/Codenames.md) )<br>
+Trigger Event: `Workspace.LiveEvents.<eventcodename>.Disabled = false` (you can find codenames [here](https://github.com/FortBloxLeaker/Event-Codenames/blob/main/Codenames.md))<br>
 Destroy Object: `Workspace.<object>:destroy()` (Objects can be found [here](https://github.com/FortBloxLeaker/Item-Asset-Codenames/blob/main/codenames.md) )<br><br>
 
 # Warning
+We are not responsible for any bans that have been taken on your account (Roblox Bans, FortBlox Bans, etc). This is for educational purposes only so we recommend using a<br>
+Private Server while using these commands. These tricks can lead into a competitive advantage as you can cause destruction as in ruin a whole match by deleting buildings<br>
+or even some grounds can be destroyable.
